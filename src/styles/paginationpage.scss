@@ -1,0 +1,10 @@
+.pagination {
+    justify-content: end;
+    margin-top: 20px;
+
+    .page-item .page-link:focus {
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }
+}

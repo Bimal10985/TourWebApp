@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #f0e6ea !important;
+    padding: 20px 0;
+
+    .nav-link {
+        color: black;
+        font-size: 18px;
+    }
+
+    h6 {
+        margin-top: 12px;
+        color: mediumblue;
+    }
+
+    p {
+        margin-top: 10px;
+        cursor: pointer;
+    }
+
+    .userIcon {
+        font-size: 22px;
+        margin: 0 5px 4px 0;
+    }
+
+    .navbar-brand {
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
